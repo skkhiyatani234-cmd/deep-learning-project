@@ -1,0 +1,8 @@
+
+{
+  "name": "IU-UICS Event Intelligence",
+  "description": "Unified Intelligent Campus System - Module 07: AI-Powered Event & Sports Management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
